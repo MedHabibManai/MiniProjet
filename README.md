@@ -8,6 +8,7 @@ TaskList:
   Choose between the available Methods to modify the list
 
 MessagerieGRPC:
+SETUP:
 1.  Create a Maven project:
 2.  Add the dependencies and the plugins in the pom.xml file
 3.  reload with (Maven Update project)
