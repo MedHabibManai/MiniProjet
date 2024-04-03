@@ -9,7 +9,9 @@ TaskList:
 
 MessagerieGRPC:
 1.  Create a Maven project:
-2.  Generate the Java Classes from the Protobuf Definition (gRPC plugin and protoc must be installed prior)
+2.  Add the dependencies and the plugins in the pom.xml file
+3.  reload with (Maven Update project)
+4.  Generate the Java Classes from the Protobuf Definition (gRPC plugin and protoc must be installed prior)
   using the following command (change the path) protoc --plugin=protoc-gen-grpc-java=/path/to/protoc-gen-grpc-java --grpc-java_out=. --java_out=. messages.proto
-3.  Compile and run both the server then client implemenation 
+5.  Compile and run both the server then client implemenation 
  
