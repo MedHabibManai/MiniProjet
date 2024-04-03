@@ -3,8 +3,8 @@ ChatRoom:
 
 TaskList:
 1.  Run the rmiregistry using the cmd/terminal
-2.  Compiler the interface
-3.  Compiler and Run the server then the client :
+2.  Compile the interface
+3.  Compile and Run the server then the client :
   Choose between the available Methods to modify the list
 
 MessagerieGRPC:
